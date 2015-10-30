@@ -6,6 +6,4 @@
  * To change this template use File | Settings | File Templates.
  */
 
-function login(){
-    form.action = "CreateRoom.html";
-}
+angular.module("loginApp",[]);
